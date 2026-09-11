@@ -15,8 +15,3 @@ I'm a final-year Computer and Informatics Engineering student at the University 
 - Create SOC investigation reports
 - Develop practical blue-team and red-team skills
 
-## Projects Coming Soon
-- Brute-force login investigation report
-- Phishing email analysis
-- Splunk detection labs
-- Python security scripts
